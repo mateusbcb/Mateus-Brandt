@@ -1,5 +1,8 @@
 ># Mateus Beloso Caniçais Brandt
->#### Back-End - Developer
+> ### Back-End - Developer
+> ###### :telephone_receiver: (47) 98417-1346
+> ###### :envelope: mateusbcb@gmail.com / mateusbcb@outlook.com
+> ###### :link: www.linkedin.com/in/mateus-brandt
 
 - # Apresentação
 
@@ -17,7 +20,8 @@
     ###### Faculdade de Tecnologia do Estado de SP (FATEC Lins)
     - Jogos Digitais
   ## Técnico (2010 - 2011)
-    ###### **Web Design** - Microcamp *Eleito o melhor aluno da Baixada santista*
+    ###### **Microcamp** 
+    - Web Design - "*Eleito o melhor aluno da Baixada santista*"
 
 - # Competências
   - **PHP**
